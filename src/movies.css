@@ -1,0 +1,15 @@
+*{
+    background-color: beige;
+}
+
+h1{
+    color:#f12121;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+a{
+    color: yellowgreen;
+    text-decoration: none;
+    font-weight: bolder;
+}
